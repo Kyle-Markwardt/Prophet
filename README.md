@@ -48,10 +48,3 @@ This project aims to analyze MercadoLibre's financial and user data to help pred
 3. **Customization**:
    - Modify the data slicing parameters and visualization settings as needed to explore different aspects of the data.
 
-## Conclusion
-
-This project demonstrates the application of time series analysis and forecasting using Google search traffic and financial data. By identifying patterns and correlations, and building predictive models, the analysis provides valuable insights for driving growth at MercadoLibre.
-
----
-
-© 2024 Forecasting Net Prophet. All Rights Reserved.
